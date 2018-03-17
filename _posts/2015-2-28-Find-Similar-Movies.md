@@ -3,11 +3,13 @@ layout: post
 title: Find Similar Movies
 ---
 
+EDIT: This project is no longer being maintained as RottemTomatoes have updated their API access to a paid model.
+
 So after watching a really good movie, have you ever wanted to find similar movies?
 
 Sure, there's services out there like NetFlix™ or IMDB™ which can help you with this. However, these services haven't exposed their APIs so use is limited to being within their website or App.
 
-So this project started off as a way to establish a simple way to look for similar movies.
+This project started off as a way to establish a simple way to look for similar movies.
 
 RottenTomatoes™, a widely known film review aggregator, does have a public API. This API is utilized in this Android App. 
 No movie-matching calculation is done in the App itself, the RottenTomatoes™ API is used to fetch all data. 
