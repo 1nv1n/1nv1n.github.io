@@ -16,7 +16,9 @@ No movie-matching calculation is done in the App itself, the RottenTomatoes™ A
 An API call is made to RottenTomatoes™ with the entered movie & a list of movies similar to this selection is displayed as a list on screen.
 
 Known Limitations:
+
 - As this is a public API, there are rate limits. Rates at the time of publishing are limited to 5 API calls per second and 10,000 calls per day.
+
 - Newer movies may not yield any results, this is dependent on RottenTomatoes™ updating their databases.
 
 This is an open source project browsable on GitHub (github.com/InViN/SimilarMovies). 
