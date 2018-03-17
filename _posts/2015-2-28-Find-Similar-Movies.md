@@ -3,7 +3,7 @@ layout: post
 title: Find Similar Movies
 ---
 
-EDIT: This project is no longer being maintained as RottemTomatoes have updated their API access to a paid model.
+<b>EDIT:</b> This project is no longer being maintained as RottemTomatoes have updated their API access to a paid model.
 
 So after watching a really good movie, have you ever wanted to find similar movies?
 
